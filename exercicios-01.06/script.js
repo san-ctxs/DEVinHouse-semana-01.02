@@ -1,0 +1,1 @@
+alert('Site criado por Alexandre Ferreira.')
